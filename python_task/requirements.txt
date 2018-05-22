@@ -1,0 +1,6 @@
+Jinja2
+flask
+setuptools==34.0.0
+nose
+tornado
+six
